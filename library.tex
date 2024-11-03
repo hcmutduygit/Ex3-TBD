@@ -1,0 +1,53 @@
+\usepackage{vntex} % Tiếng Việt
+\usepackage{graphicx} % Chèn hình ảnh
+\usepackage{listings} % Thêm gói listings để chèn code
+\usepackage{xcolor} % Màu cho code
+\usepackage{changepage} % Thay đổi lề
+\lstset{
+    language=R,
+    basicstyle=\footnotesize\ttfamily,
+    numbers=none,
+    numberstyle=\tiny\color{gray},
+    stepnumber=1,
+    numbersep=0.01pt,
+    tabsize=2,
+    breaklines=true,
+    breakatwhitespace=false,
+    xleftmargin=0cm, % for line numbers
+    framexleftmargin=0cm, % for code frame
+    keywordstyle=\color{blue},
+    commentstyle=\color{green},
+    stringstyle=\color{orange},
+    frame=single,
+    rulecolor=\color{black},
+    basicstyle=\ttfamily,
+}
+% Thiết lập bảng
+\usepackage{diagbox}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{longtable} % Tạo bảng qua nhiều trang
+\usepackage{cellspace}
+\usepackage{bm} % Chữ in đậm trong công thức toán 
+\usepackage{a4wide,amssymb,epsfig,latexsym,multicol,array,hhline,fancyhdr}
+\usepackage{tikz}
+\usepackage{color}
+\usepackage{subcaption}
+\usepackage{framed}
+\usepackage{float} % Để chèn hình ảnh vào đúng vị trí
+\usepackage{fancyvrb} %Đưa dữ liệu dạng nguyên thủy vào
+\usepackage{amsmath} % Công thức toán
+\usepackage{slashbox} % Chèn đường chéo trong bảng
+% Thiết lập kích thước
+\usepackage{geometry}
+\geometry{
+    left=3cm,
+    right=2cm,
+    top=2.5cm,
+    bottom=2.5cm,
+}
+\usepackage{hyperref} %Chèn link
+\hypersetup{urlcolor=black,linkcolor=black,citecolor=black,colorlinks=true} % Màu cho các đường nét
+\everymath{\color{black}}
+\setlength{\headheight}{40pt}
+\pagestyle{fancy}
