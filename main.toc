@@ -1,1 +1,1 @@
-\contentsline {section}{\numberline {0.1}Develop and draw logic circuit with 4 inputs that will only produce logic 1 when only exactly 2 inputs are logic 1.}{2}{section.0.1}%
+\contentsline {section}{\numberline {1}Develop and draw logic circuit with 4 inputs that will only produce logic 1 when only exactly 2 inputs are logic 1.}{2}{section.1}%
