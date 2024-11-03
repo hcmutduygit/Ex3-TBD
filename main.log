@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  3 NOV 2024 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  3 NOV 2024 15:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,7 +905,7 @@ Package hyperref Info: Link coloring ON on input line 28.
 \openout2 = `titlepage.aux'.
 
  (titlepage.tex
-<pictures/hcmut.png, id=66, 605.8635pt x 597.6729pt>
+<pictures/hcmut.png, id=78, 605.8635pt x 597.6729pt>
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 9.
@@ -951,7 +951,43 @@ l.31     \cleardoublepage
                           [1
 
 
-] (bai2.tex
+] (bai1.tex
+<pictures/1_diagram.png, id=115, 756.8275pt x 295.1025pt>
+File: pictures/1_diagram.png Graphic file (type png)
+<use pictures/1_diagram.png>
+Package pdftex.def Info: pictures/1_diagram.png  used on input line 4.
+(pdftex.def)             Requested size: 227.62206pt x 88.75206pt.
+<pictures/1_karnaugh.png, id=116, 2321.67375pt x 1187.43625pt>
+File: pictures/1_karnaugh.png Graphic file (type png)
+<use pictures/1_karnaugh.png>
+Package pdftex.def Info: pictures/1_karnaugh.png  used on input line 22.
+(pdftex.def)             Requested size: 227.62206pt x 116.41325pt.
+<pictures/1_waveinput.png, id=117, 792.9625pt x 337.26pt>
+File: pictures/1_waveinput.png Graphic file (type png)
+<use pictures/1_waveinput.png>
+Package pdftex.def Info: pictures/1_waveinput.png  used on input line 32.
+(pdftex.def)             Requested size: 364.19667pt x 154.89961pt.
+
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 36.
+(pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
+[2
+
+ <./pictures/1_diagram.png> <./pictures/1_karnaugh.png (PNG copy)>]
+<pictures/1_waveoutput.png, id=130, 1082.0425pt x 685.56125pt>
+File: pictures/1_waveoutput.png Graphic file (type png)
+<use pictures/1_waveoutput.png>
+Package pdftex.def Info: pictures/1_waveoutput.png  used on input line 39.
+(pdftex.def)             Requested size: 364.19667pt x 230.74452pt.
+
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 43.
+(pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
+[3 <./pictures/1_waveinput.png (PNG copy)> <./pictures/1_waveoutput.png (PNG copy)>]) (bai2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -966,7 +1002,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--20
 
  []
 
-<pictures/b2.png, id=100, 942.52126pt x 508.90125pt>
+<pictures/b2.png, id=137, 942.52126pt x 508.90125pt>
 File: pictures/b2.png Graphic file (type png)
 <use pictures/b2.png>
 Package pdftex.def Info: pictures/b2.png  used on input line 23.
@@ -987,7 +1023,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 26.
 
-<pictures/b2.2.png, id=101, 933.4875pt x 506.6428pt>
+<pictures/b2.2.png, id=138, 933.4875pt x 506.6428pt>
 File: pictures/b2.2.png Graphic file (type png)
 <use pictures/b2.2.png>
 Package pdftex.def Info: pictures/b2.2.png  used on input line 29.
@@ -998,7 +1034,7 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 31.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[2
+[4
 
  <./pictures/b2.png>]
 
@@ -1017,7 +1053,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 31.
 
-<pictures/b2.1.png, id=109, 920.68968pt x 514.17094pt>
+<pictures/b2.1.png, id=145, 920.68968pt x 514.17094pt>
 File: pictures/b2.1.png Graphic file (type png)
 <use pictures/b2.1.png>
 Package pdftex.def Info: pictures/b2.1.png  used on input line 34.
@@ -1038,7 +1074,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 36.
 
-<pictures/b2.4.png, id=110, 941.01563pt x 527.72156pt>
+<pictures/b2.4.png, id=146, 941.01563pt x 527.72156pt>
 File: pictures/b2.4.png Graphic file (type png)
 <use pictures/b2.4.png>
 Package pdftex.def Info: pictures/b2.4.png  used on input line 39.
@@ -1049,7 +1085,7 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 41.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[3 <./pictures/b2.2.png> <./pictures/b2.1.png>]
+[5 <./pictures/b2.2.png> <./pictures/b2.1.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 41.
@@ -1066,7 +1102,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 41.
 
-<pictures/b2.3.png, id=119, 934.99312pt x 514.17094pt>
+<pictures/b2.3.png, id=155, 934.99312pt x 514.17094pt>
 File: pictures/b2.3.png Graphic file (type png)
 <use pictures/b2.3.png>
 Package pdftex.def Info: pictures/b2.3.png  used on input line 44.
@@ -1087,7 +1123,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 46.
 
-<pictures/b2.6.png, id=120, 931.98187pt x 521.69907pt>
+<pictures/b2.6.png, id=156, 931.98187pt x 521.69907pt>
 File: pictures/b2.6.png Graphic file (type png)
 <use pictures/b2.6.png>
 Package pdftex.def Info: pictures/b2.6.png  used on input line 49.
@@ -1098,7 +1134,7 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 51.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[4 <./pictures/b2.4.png> <./pictures/b2.3.png>]
+[6 <./pictures/b2.4.png> <./pictures/b2.3.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
@@ -1115,7 +1151,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 51.
 
-<pictures/b2.5.png, id=129, 931.22906pt x 515.67656pt>
+<pictures/b2.5.png, id=166, 931.22906pt x 515.67656pt>
 File: pictures/b2.5.png Graphic file (type png)
 <use pictures/b2.5.png>
 Package pdftex.def Info: pictures/b2.5.png  used on input line 54.
@@ -1126,8 +1162,8 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 56.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[5 <./pictures/b2.6.png> <./pictures/b2.5.png>]) (bai3.tex
-<pictures/b3.png, id=138, 758.08218pt x 502.87875pt>
+[7 <./pictures/b2.6.png> <./pictures/b2.5.png>]) (bai3.tex
+<pictures/b3.png, id=175, 758.08218pt x 502.87875pt>
 File: pictures/b3.png Graphic file (type png)
 <use pictures/b3.png>
 Package pdftex.def Info: pictures/b3.png  used on input line 4.
@@ -1153,10 +1189,10 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 52.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[6
+[8
 
  <./pictures/b3.png>])
-Underfull \hbox (badness 10000) in paragraph at lines 53--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--35
 
  []
 
@@ -1164,28 +1200,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--34
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 34.
+Package pdftex.def Info: pictures/hcmut.png  used on input line 36.
 (pdftex.def)             Requested size: 34.14075pt x 34.1352pt.
-[7] (main.aux (titlepage.aux))
+[9] (main.aux (titlepage.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 63C74E56F9ACBBE83ADDBEC52A09727C;4118.
+(rerunfilecheck)             Checksum: 63E3755C760325206B70B4975FC1368B;4935.
  ) 
 Here is how much of TeX's memory you used:
- 26081 strings out of 473899
- 472241 string characters out of 5726500
- 854940 words of memory out of 5000000
- 48442 multiletter control sequences out of 15000+600000
+ 26134 strings out of 473899
+ 473490 string characters out of 5726500
+ 855045 words of memory out of 5000000
+ 48483 multiletter control sequences out of 15000+600000
  582210 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,24n,134p,743b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (8 pages, 452428 bytes).
+ 89i,25n,134p,743b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+Output written on main.pdf (10 pages, 973580 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 
