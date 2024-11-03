@@ -1,5 +1,6 @@
 \documentclass[12pt,a4paper]{article}
 \input{library}
+
 %Header
 \fancyhead{} % clear all header fields
 \fancyhead[L]{
@@ -22,15 +23,13 @@
 %Footer
 \fancyfoot{} % clear all footer fields
 \fancyfoot[L]{\scriptsize \ttfamily Trang bị điện - điện tử trong máy công nghiệp}
-\fancyfoot[R]{\scriptsize \ttfamily Trang {\thepage}/21}
+\fancyfoot[R]{\scriptsize \ttfamily Trang {\thepage}/13}
 \renewcommand{\headrulewidth}{0.3pt}
 \renewcommand{\footrulewidth}{0.3pt}
+
 \begin{document}
     \include{titlepage}
-    \tableofcontents
-    \cleardoublepage
-    \input{bai1.tex}
-    \input{bai2.tex}
-    \input{bai3.tex}
-    
+	\tableofcontents
+	\newpage
+ 	\include{bai1}
 \end{document}

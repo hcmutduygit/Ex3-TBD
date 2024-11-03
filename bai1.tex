@@ -3,6 +3,7 @@
         \centering
         \includegraphics[width=0.5\textwidth]{pictures/1_diagram.png}
         \caption{Sơ đồ mạch bài 1}
+        \label{fig:1_diagram}
     \end{figure}
     \subsection{Derive the output and minimize the output function using Karnaugh map}
         \hspace*{0.6cm}Từ sơ đồ mạch ta có giá trị đầu ra:
@@ -40,4 +41,18 @@
             \caption{Waveform output bài 1}
             \label{fig:1_waveoutput}
         \end{figure}
-        \cleardoublepage
+    \subsection{Mô phỏng bằng Proteus}
+        \begin{itemize}
+            \item Sử dụng phần mềm Proteus để mô phỏng mạch như hình \ref{fig:1_diagram}.
+            \item Sử dụng các linh kiện: AND, OR, NOT, LOGICPROBE, LOGICSTATE.
+            \item Giả sử đầu vào là $A = 0, B = 1, C = 0, D = 1 $ \\[0.2cm]
+             $\Rightarrow X = \bar{B}\bar{C} + \bar{B}\bar{D} + A = 0 \cdot 1 + 0 \cdot 0 + 1 = 0 + 0 + 0 = 0$.\\
+             \begin{figure}[H]
+                \centering
+                \includegraphics[width=0.8\textwidth]{pictures/1_result.png}
+                \caption{Mô phỏng bằng Proteus}
+            \end{figure}
+            $\Rightarrow$\hspace*{0.6cm}Kết quả mô phỏng trên Proteus cho thấy đúng với kết quả tính toán.
+        \end{itemize}
+    
+        
